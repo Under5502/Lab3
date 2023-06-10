@@ -1,4 +1,4 @@
-package nguyentuananhvu.Lab3.enity;
+package nguyentuananhvu.Lab3.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
